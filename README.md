@@ -1,8 +1,9 @@
 # EcoDrive-Sales-Analysis
+OVERVIEW
 This project analyzes business performance and sustainability metrics for EcoDrive Motors, a vehicle company specializing in Diesel, Petrol, and Electric Vehicles (EVs). The dashboard provides insights into sales performance, profitability, and environmental impact to support strategic decision-making.
 
 
-**KEY DASHBOARDS**********
+KEY DASHBOARDS
 KPI 1: Sales and Revenue Performance:
 • Analyse sales and revenue by:
 o Vehicle type and model
@@ -19,6 +20,7 @@ o Net profit
 o Profit margins
 • Compare profitability by vehicle type and model.
 • Identify the most and least profitable products and segments.
+
 KPI 3: Environmental Sustainability Performance: • Assess sustainability performance using:
 o Carbon footprint reduction
 o Fuel efficiency
